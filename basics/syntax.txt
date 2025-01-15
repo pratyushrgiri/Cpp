@@ -1,0 +1,5 @@
+cout <<
+is pronounced "see-out". Used for output, and uses the insertion operator (<<)
+
+cin >>
+is pronounced "see-in". Used for input, and uses the extraction operator (>>)
