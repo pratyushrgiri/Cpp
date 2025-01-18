@@ -26,5 +26,6 @@ int main(){
     getline (cin, Fullname);   //This is the most common way for entering a string variable..
     cout << "Hi "<<Fullname;
     //line 26 and 27 got bugged idk why?
+    //blaming github codespace for this..
     return 0;
 }
