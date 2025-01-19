@@ -27,4 +27,5 @@ int main()
     cout << s<<"\n";
     //this is the easy way for printing array
 }
+    return 0;
 }
