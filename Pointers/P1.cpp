@@ -20,6 +20,5 @@ int main(){
 
     //lets print the new value of food 
     cout << food << "\n";
-    
     return 0;
 }
