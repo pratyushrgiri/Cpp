@@ -18,6 +18,6 @@ namespace Student6969 {
 }
 
 int main(){
-    std:: cout<< Student69::name;
+     std:: cout<< Student69::name;
     std:: cout<< Student6969::name;
 }
